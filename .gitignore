@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+data/
+.DS_STORE
+output.py
+drafts/
+.venv/
